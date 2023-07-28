@@ -6,3 +6,6 @@ son proyectos pequeños
 
 ### Gato
 ![image](https://github.com/GabrielMedink/proyectos-python/assets/93561081/5bf5ceee-fae2-4fcd-ad59-5faeab100bc6)
+
+### Pong
+![image](https://github.com/GabrielMedink/proyectos-python/assets/93561081/266b7084-667c-44cd-9478-afa9d16a2b88)
