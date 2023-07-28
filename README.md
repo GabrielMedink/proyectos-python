@@ -9,3 +9,6 @@ son proyectos pequeños
 
 ### Pong
 ![image](https://github.com/GabrielMedink/proyectos-python/assets/93561081/266b7084-667c-44cd-9478-afa9d16a2b88)
+
+### Serpiente
+![image](https://github.com/GabrielMedink/proyectos-python/assets/93561081/8f197f8a-214f-4cec-aeb6-9b542aa8834e)
